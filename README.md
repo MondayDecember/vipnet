@@ -63,3 +63,12 @@ VIII.	Для создания справочника переходим в ра�
 start путь имя установщика .MSI
 
 start C:\Users\zeeer\Downloads\Корд\vipnet-main.msi 
+
+
+
+
+Никита https://github.com/Seten01
+
+Марк https://github.com/changedaworld0/demo/wiki/pc-conf
+
+Корд пароль и логин user
