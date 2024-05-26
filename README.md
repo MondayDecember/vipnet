@@ -73,6 +73,7 @@ start C:\Users\zeeer\Downloads\Корд\vipnet-main.msi
 
 Дополнение 
 https://github.com/vipne/vipn
+
 https://github.com/kvalUser/Kval_Demo
 
 Марк https://github.com/changedaworld0/demo/wiki/pc-conf
