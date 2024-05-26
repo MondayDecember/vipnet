@@ -69,6 +69,12 @@ start C:\Users\zeeer\Downloads\Корд\vipnet-main.msi
 
 Никита https://github.com/Seten01
 
+
+
+Дополнение 
+https://github.com/vipne/vipn
+https://github.com/kvalUser/Kval_Demo
+
 Марк https://github.com/changedaworld0/demo/wiki/pc-conf
 
 Корд пароль и логин user
